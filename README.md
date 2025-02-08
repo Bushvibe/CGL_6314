@@ -1,7 +1,7 @@
 # CGL_6314
 Simples gerador de língua usando meu próprio número 6314!
 
-``
+`
  cheio             Ec
  perfeito         Herans
  vazio             Hixwne
@@ -44,12 +44,12 @@ Simples gerador de língua usando meu próprio número 6314!
  ê                    Ohlcn   ou   Jecy
  foi                  Ecxr
  ar                   Exkb
-``
+`
 
-`` 
 
-texto: uma doce raposa foi veleijar em um campo verde cheio de rosas
 
-traduzido: meojf ecoh oejf ecxr juxhte hnec nhemk uejox rjxoi ec oexsif ejxiwf hicerj
+`texto: uma doce raposa foi veleijar em um campo verde cheio de rosas`
 
-``
+`traduzido: meojf ecoh oejf ecxr juxhte hnec nhemk uejox rjxoi ec oexsif ejxiwf hicerj`
+
+
