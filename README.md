@@ -4,7 +4,6 @@ Simples gerador de língua usando meu próprio número 6314!
 
 `cheio             Ec`
 
-
 `perfeito         Herans`
 `vazio             Hixwne`
 `imperfeito    Ejhxna`
