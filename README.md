@@ -90,6 +90,7 @@ Simples gerador de língua usando meu próprio número 6314!
 
 `texto: uma doce raposa foi veleijar em um campo verde cheio de rosas`
 
-`traduzido: meojf ecoh oejf ecxr juxhte hnec nhemk uejox rjxoi ec oexsif ejxiwf hicerj`
+`traduzido: hemoru uoxh hoxs eufhb rshuev huxsei rnecu ukri runid iurok islrvu aryxo houen
+`
 
 
