@@ -2,91 +2,90 @@
 Simples gerador de língua usando meu próprio número 6314!
 
 
-`cheio             Ec`
 
-`perfeito         Herans`
+ ` iurok cheio `
 
-`vazio             Hixwne`
+ ` rosd perfeito `
 
-`imperfeito    Ejhxna`
+ ` rhokxn vazio `
 
-`escrito          Juoeix`
+ ` ohurce imperfeito `
 
-`falar              Joeslx`
+ ` envris escrito `
 
-`falar              Joeslx`
+ ` rnkihe falar `
 
-`disse             Eomcs`
+ ` rnkihe falar `
 
-`dito               Joxcer`
+ ` oureim disse `
 
-`em                 Hnec`
+ ` hiorl dito `
 
-`vivo               Ejowm`
+ ` huxsei em `
 
-`morto            Hec`
+ ` juor vivo `
 
-`vi                    Hoxe`
+ ` humron morto `
 
-`visto              Hecox`
+ ` eois vi `
 
-`ar                   Exukb`
+ ` kusn visto `
 
-`fazer              Eomcs`
+ ` onuixj ar `
 
-`usar               Erxij`
+ ` oureim fazer `
 
-`mover            Hixwne`
+ ` edruls usar `
 
-`andar             Kecxj`
+ ` rhokxn mover `
 
-`parar              Rjxoi`
+ ` rnkihe andar `
 
-`parado           Uxoj`
+ ` runid parar `
 
-`atirar              Rohxc`
+ ` eyoki parado `
 
-`estou             Kujec`
+ ` orh atirar `
 
-`Oi                   He`
+ ` vuhx estou `
 
-`tchau             Ixce`
+ ` euoxm oi `
 
-`isso               Enxhwk`
+ ` roh tchau `
 
-`aqui               Joxcer`
+ ` udco isso `
 
-`la                   Exicor`
+ ` hiorl aqui `
 
-`de                  Oexisf`
+ ` omk la `
 
-`da                  icuwk`
+ ` islrvu de `
 
-`dos                Eowu`
+ ` ioceu da `
 
- `das                Okcixe`
- 
- `nos                Merxn`
- 
- `nas                Vocefd`
- 
- `no                  Excu`
- 
- `na                  Efh`
- 
- `em                 Hnec`
- 
- `estando        Ensj`
- 
- `é                    Kesnix`
- 
- `ê                    Ohlcn   ou   Jecy`
- 
- `foi                  Ecxr`
- 
- `ar                   Exkb`
+ ` reuocm dos `
 
+ ` hiroku das `
 
+ ` jouc nos `
+
+ ` ubiox nas `
+
+ ` inorjul no `
+
+ ` urioh na `
+
+ ` huxsei em `
+
+ ` uhe estando `
+
+ ` rius é `
+
+ ` roku ê `
+
+ ` eufhb foi `
+
+ ` onuixj ar `
 
 
 `texto: uma doce raposa foi veleijar em um campo verde cheio de rosas`
