@@ -9,18 +9,18 @@ def add_letter(n, t):
         alphabet = alphabet + n
 
 #or k in range(27):
-#    print("add_letter(\"dbb\", 1)")
+#log("   print("add_letter(\"dbb\", 1)")
 
 add_letter("a", 1)
 add_letter("b", 1)
-add_letter("c", 31)
+add_letter("c", 7)
 add_letter("d", 1)
-add_letter("e", 42)
+add_letter("e", 9)
 add_letter("f", 3)
 add_letter("g", 0)
 add_letter("h", 11)
 add_letter("i", 9)
-add_letter("j", 8)
+add_letter("j", 2)
 add_letter("k", 6)
 add_letter("l", 4)
 add_letter("m", 4)
@@ -28,15 +28,15 @@ add_letter("n", 4)
 add_letter("o", 23)
 add_letter("p", 0)
 add_letter("q", 0)
-add_letter("r", 9)
+add_letter("r", 29)
 add_letter("s", 9)
-add_letter("t", 1)
-add_letter("u", 7)
+add_letter("t", 0)
+add_letter("u", 20)
 add_letter("v", 1)
-add_letter("w", 6)
-add_letter("x", 31)
+add_letter("w", 2)
+add_letter("x", 6)
 add_letter("y", 1)
-add_letter("z", 1)
+add_letter("z", 0)
 
 np = "wscgflbxq"
 
@@ -135,6 +135,16 @@ def compatible_con(k,v):
         r = False
     if a == "h" and l == "s":
         r = False
+    if a == "j" and l == "f":
+        r = False
+    if a == "x" and l == "x":
+        r = False
+    if a == "j" and l == "x":
+        r = False
+    if a == "w" and l == "f":
+        r = False
+    if a == "h" and l == "n":
+        r = False
     #print(a, l)
     return r
 
@@ -183,56 +193,58 @@ def translate_sentence(text):
     return r
     
     
+
+def log(a):
+    print(translate_seed(a), a)
     
-    
-# cheio             Ec
-# perfeito         Herans
-# vazio             Hixwne
-# imperfeito    Ejhxna
-# escrito          Juoeix
-# falar              Joeslx
-# falar              Joeslx
-# disse             Eomcs
-# dito               Joxcer
-# em                 Hnec
-# vivo               Ejowm
-# morto            Hec
-# vi                    Hoxe
-# visto              Hecox
-# ar                   Exukb
-# fazer              Eomcs
-# usar               Erxij
-# mover            Hixwne
-# andar             Kecxj
-# parar              Rjxoi
-# parado           Uxoj
-# atirar              Rohxc
-# estou             Kujec
-# oi                   He
-# tchau             Ixce
-# isso               Enxhwk
-# aqui               Joxcer
-# la                   Exicor
-# de                  Oexisf
-# da                  icuwk
-# dos                Eowu
-# das                Okcixe
-# nos                Merxn
-# nas                Vocefd
-# no                  Excu
-# na                  Efh
-# em                 Hnec
-# estando        Ensj
-# é                    Kesnix
-# ê                    Ohlcn   ou   Jecy
-# foi                  Ecxr
-# ar                   Exkb
+log("cheio")
+log("perfeito")
+log("vazio")
+log("imperfeito")
+log("escrito")
+log("falar")
+log("falar")
+log("disse")
+log("dito")
+log("em")
+log("vivo")
+log("morto")
+log("vi")
+log("visto")
+log("ar")
+log("fazer")
+log("usar")
+log("mover")
+log("andar")
+log("parar")
+log("parado")
+log("atirar")
+log("estou")
+log("oi")
+log("tchau")
+log("isso")
+log("aqui")
+log("la")
+log("de")
+log("da")
+log("dos")
+log("das")
+log("nos")
+log("nas")
+log("no")
+log("na")
+log("em")
+log("estando")
+log("é")
+log("ê")
+log("foi")
+log("ar")
 
 
 resp = translate_sentence("uma doce raposa foi veleiar em um campo verde cheio de rosas camponeses")
 
 print()
-print("texto: uma doce raposa foi veleiar em um campo verde cheio de rosas camponeses")
+print("texto: uma doce raposa foi veleijar em um campo verde cheio de rosas")
 print("")
 
 print("traduzido: " + resp)
